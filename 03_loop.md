@@ -22,7 +22,7 @@ else:
 ```Python
 if score >= 60:
     print('Pass!')
-else if gender == 'girl':
+elif gender == 'girl':
     print('OK! Let\'s try something to fix it!')
 else:
     print('OOPS! You failed.')
